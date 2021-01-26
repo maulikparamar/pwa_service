@@ -1,0 +1,20 @@
+{
+  "name": "service worker demo",
+  "short_name": "example service worker",
+  "start_url": ".",
+  "background_color": "pink",
+  "theme_color": "black",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "image/image128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "image/image512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
